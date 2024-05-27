@@ -32,7 +32,7 @@ Explore the Spotify Clone live [here](https://sumankumari29.github.io/Spotify-Cl
 
 4. **Volume Control:**
 
-   Adjust the volume using the on-screen controls.
+   Adjust the volume using the on-screen controls here.
 
 5. **Responsive Design:**
 

@@ -1,6 +1,6 @@
 # Spotify Clone
 
-Welcome to the Spotify Clone, a project developed using HTML, CSS, and JavaScript that emulates the appearance and basic functionality of the popular music streaming platform, Spotify.
+Welcome to the Spotify Clone, a project developed using HTML, CSS that emulates the appearance and basic functionality of the popular music streaming platform, Spotify.
 
 ## Demo
 

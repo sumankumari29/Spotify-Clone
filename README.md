@@ -44,22 +44,18 @@ Explore the Spotify Clone live [here](https://sumankumari29.github.io/Spotify-Cl
   
 - **CSS:** Stylesheet language for enhancing the visual presentation.
 
-- **JavaScript:** Programming language for implementing the interactive features and music playback.
-
 ## File Structure
 
 ```plaintext
 spotify-clone/
 |-- index.html
 |-- style.css
-|-- script.js
 |-- assets/
 |-- README.md
 ```
 
 - **index.html:** The main HTML file containing the structure of the Spotify Clone.
 - **style.css:** The CSS file for styling the clone's interface.
-- **script.js:** The JavaScript file implementing interactive features and music playback.
 - **assets/:** Folder containing static assets such as images.
 - **README.md:** The documentation file you are currently reading.
 
